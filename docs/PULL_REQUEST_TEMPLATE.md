@@ -2,11 +2,11 @@
 - [ ] Alfa
 - [ ] Bravo 
 - [ ] Charlie
-- [ ] Delta
+- [X] Delta
 - [ ] Echo
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [X] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
